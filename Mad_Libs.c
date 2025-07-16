@@ -3,6 +3,9 @@
 
 int main()
 {
+    //MAD LIBS GAME
+    //Goal to practice and get familiar with the usage of fgets() function.
+    
     char adj1[100] = "";
     char adj2[100] = "";
     char adj3[100] = "";

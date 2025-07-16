@@ -3,6 +3,28 @@
 
 int main()
 {
+    /*
+    Program: Restaurant Bill Generator
+    Description:
+        This beginner-level C program simulates a restaurant bill calculator.
+        The user inputs three items with their names, prices, and quantities.
+        The program calculates the subtotal, applies a fixed tax rate,
+        and prints a formatted final bill with totals.
+
+    Concepts Practiced:
+        - Basic I/O using printf, scanf, fgets
+        - String handling with char arrays
+        - Arithmetic operations with floats and ints
+        - Formatted output (alignment, float precision)
+        - Removing trailing newline from fgets input
+
+    Skill Focus:
+        - Strengthen variable usage
+        - Improve user input flow handling
+        - Practice formatting clean console output
+*/
+
+    
     char Item1[100] = "";
     char Item2[100] = "";
     char Item3[100] = "";
